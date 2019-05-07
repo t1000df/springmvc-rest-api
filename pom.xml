@@ -70,5 +70,10 @@
 		<artifactId>jstl</artifactId>
 		<version>1.2</version>
 	</dependency>
+	<dependency>
+	    <groupId>org.jboss.resteasy</groupId>
+	    <artifactId>jaxrs-api</artifactId>
+	    <version>3.0.12.Final</version>
+	</dependency>
   </dependencies>
 </project>
